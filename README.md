@@ -1,2 +1,2 @@
-# ujian-asat
-asesmen sumatif akhir tahun tahun pelajaran 2025-2026 SMK Muhammadiyah 2 Wates
+# ujian-PAS
+asesmen sumatif akhir semester tahun pelajaran 2026-2027 SMK Muhammadiyah 2 Wates
